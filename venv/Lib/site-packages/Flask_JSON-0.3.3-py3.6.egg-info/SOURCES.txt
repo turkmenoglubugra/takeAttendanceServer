@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+flask_json.py
+setup.cfg
+setup.py
+Flask_JSON.egg-info/PKG-INFO
+Flask_JSON.egg-info/SOURCES.txt
+Flask_JSON.egg-info/dependency_links.txt
+Flask_JSON.egg-info/not-zip-safe
+Flask_JSON.egg-info/requires.txt
+Flask_JSON.egg-info/top_level.txt
